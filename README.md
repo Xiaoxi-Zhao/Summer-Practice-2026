@@ -1,4 +1,4 @@
-# Summer-Practice-2025
+# Summer-Practice-2026
 
 基于全景相机的街道风貌采集指南
 
